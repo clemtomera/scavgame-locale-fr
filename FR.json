@@ -1643,34 +1643,34 @@
         "gunsafety": "Basculer la sécurité",
         "alertitemblocked": "Objet bloqué par un mur !",
         "alertitemfar": "Objet trop loin !",
-        "alertpickupwearable": "Les objets qui se portent ne peuvent pas être tenus en main (Porter/stocker à la place ?)",
-        "alertalreadywearing": "Un·e <1> ne peut pas se mettre par dessus un·e <2> !",
-        "alertcontainerstacking": "Les conteneurs ne peuvent être vidés que dans d’autres conteneurs !",
-        "alertcontainerstackingalt": "Impossible d’utiliser le conteneur puisqu’il est déjà dans un autre conteneur !",
+        "alertpickupwearable": "Les objets qui se portent ne peuvent être tenus en main (Porter/stocker à la place ?)",
+		"alertalreadywearing": "Ce/cette <1> ne peut pas être porté par dessus votre <2> !",
+		"alertcontainerstacking": "Seuls les conteneurs vides peuvent être stockés dans d’autres conteneurs !",
+		"alertcontainerstackingalt": "Impossible d’utiliser ce conteneur puisqu’il est déjà dans un autre conteneur !",
         "alerttoounhappy": "Usage de médicaments non opioïdes impossible, vous vous sentez trop mal !",
-        "alertlimbmissing": "Votre <1> est manquant, rendant <2> inutilisable !",
+		"alertlimbmissing": "Votre <1> est manquant(e), vous empêchant d’utiliser ce/cette <2> !",
         "alertsellcontainer": "Videz le conteneur avant de le vendre !",
         "insertsample": "Insérer un échantillon",
-        "tradeinteract": "Marchander",
+        "tradeinteract": "Troquer",
         "read": "Lire",
         "repairmetalalloy": "Réparer avec un kit de réparation pour foreuse",
-        "useterminal": "Open the console",
+		"useterminal": "Afficher la console",
         "insertscrap": "Insérer de la ferraille",
         "open": "Ouvrir",
 		"insertbattery": "Insérer une batterie depuis la main principale",
         "lockpick": "Crocheter",
-        "learnedrecipe": "Recette apprise pour r1.\n<color=\"green\">30 INT. exp.</color> obtenus.",
-        "epdalearn": "Gained <color=\"green\">50 INT. exp.",
+        "learnedrecipe": "Recette apprise pour r1.\n<color=\"green\">30 exp. INT. obtenus.",
+		"epdalearn": "<color=\"green\">50 exp. INT. obtenus.",
         "hasbattery": "Batterie restante (<>)\n<sprite index=17 tint=1>Utiliser un outil pour la retirer.",
         "nobattery": "Batterie vide (Max. <>)",
-        "unknownobject": "Quelque chose...",
-        "unknownmedical": "Une sorte de médicament...",
-        "unknowndrug": "Une sorte de drogue...",
-        "unknownfood": "Une sorte de nourriture...",
-        "unknownwater": "Une sorte de bouteille...",
-        "unknownutility": "Une sorte d’appareil...",
-        "unknowncontainer": "Une sorte de sac...",
-        "unknowntool": "Une sorte d’outil...",
+        "unknownobject": "Quelque chose…",
+        "unknownmedical": "Une sorte de médicament…",
+        "unknowndrug": "Une sorte de drogue…",
+        "unknownfood": "Une sorte de nourriture…",
+        "unknownwater": "Une sorte de bouteille…",
+        "unknownutility": "Une sorte d’appareil…",
+        "unknowncontainer": "Une sorte de sac…",
+        "unknowntool": "Une sorte d’outil…",
         "unknownobjectdsc": "Vous ne parvenez pas à comprendre ce que c’est ni à quoi cela sert.",
         "unknownobjectwarning": "Vous êtes trop bête pour reconnaître ceci. (<> INT. requis)",
         "small": "Petit",
@@ -1683,7 +1683,7 @@
         "indifferent": "Indifférent :",
         "wantskeep": "Préfère garder :",
         "wantstradetip": "Pris abaissés et plus grand gain de réputation",
-        "indifferenttip": "Prix normaux et gain de réputation",
+        "indifferenttip": "Prix et gain de réputation normaux",
         "wantskeeptip": "Prix augmentés et aucun gain de réputation",
         "costs": "<sprite index=9>Coûte ",
         "weighs": "<sprite index=0>Pèse ",
@@ -1698,17 +1698,17 @@
         "theirinventory": "Leur inventaire",
         "yourinventory": "Votre inventaire",
         "haggle": "Négocier",
-        "haggledsc": "Essayer de négocier des prix plus bas. Pourrait contrarier le commerçant si vous vous y prenez mal.\nDonne de l’expérience INT en cas de succès.",
+        "haggledsc": "Essayer de négocier des prix plus bas. Pourrait contrarier le commerçant si vous vous y prenez mal.\nDonne de l’expérience INT. en cas de succès.",
         "haggledune": "Morsure amicale",
-        "haggledunedsc": "Laissez le commerçant croquer un morceau de l’une de vos extrémités en échange de réputation et de valeur. Souhaitons pouvoir lui faire suffisamment confiance pour éviter toute blessure grave.",
+        "haggledunedsc": "Laissez le commerçant croquer un petit morceau de l’une de vos extrémités en échange de réputation et de valeur. Il fera probablement assez attention pour éviter toute blessure grave.",
         "hug": "Faire un câlin",
         "hugdsc": "Faites-lui un câlin. Risque de l’effrayer s’il n’a pas confiance en vous.",
         "threaten": "Menacer",
         "threatendsc": "Le menacer pour obtenir un ou deux articles gratuits. Pourrait se retourner contre vous de manière significative.",
         "rest": "Dormir",
         "restdsc": "Faites une sieste avec le commerçant pour instaurer un climat de confiance et profiter d’un sommeil plus confortable. Les conditions habituelles pour dormir s’appliquent.",
-        "tradermove": "Move",
-        "tradermovedsc": "Demander poliment au vendeur de se décaler, au cas où il empêcherait l’accès à quelque chose d’important.",
+		"tradermove": "Déplacer",
+		"tradermovedsc": "Demander gentiment au marchand de se décaler, au cas où il bloquerait l’accès à quelque chose d’important.",
         "exit": "Quitter",
         "free": "<color=\"orange\">GRATUIT !",
         "deceased": "Décédé",
@@ -1744,10 +1744,10 @@
         "moodrange9": "Joyeux",
         "moodrange10": "Extatique",
         "moodrangewiped": "Vide",
-        "moodrangeyethopeful": ", mais empli d’espoir...",
-        "wiki": "Wiki",
-        "discord": "Serveur Discord",
-        "translations": "Répertoire de traduction",
+		"moodrangeyethopeful": ", mais empli d’espoir…",
+		"wiki": "Wiki (anglais uniquement)",
+		"discord": "Serveur Discord (anglais requis)",
+		"translations": "Traductions",
         "healthchipcriticalalert1": "SIGNES VITAUX\nCRITIQUES",
         "healthchipcriticalalert2": "MORT\nIMMINENTE",
         "healthchipcriticalalert3": "DEMANDEZ\nASSISTANCE MÉDICALE",
@@ -2873,7 +2873,7 @@
                 "J’espère que je ne vais pas finir pareil.",
                 "Ouah... Beurk... Merde.",
                 "Je ne crois pas qu’il respire...",
-                "Ok c’est un cadavre, du calme...",
+                "Ouais, c’est un cadavre, pas de doute...",
                 "Je peux pas m’empêcher de regarder...",
                 "Merde... Argh... Ça craint.",
                 "Pauvre gars.",
@@ -3588,30 +3588,30 @@
                 "J’en ai assez de tes conneries.",
                 "Va te faire FOUTRE !",
                 "J’EN AI PLEIN LE CUL DE TOI !",
-                "VAS TE FAIRE VOIR !",
-                "DEHORS ! DÉGAGE ! DE SUITE !",
+                "VAS CHIER !",
+                "DEHORS ! DÉGAGE ! MAINTENANT !",
                 "DÉGAGE !"
             ],
             "traderthreatensuccess": [
-                "D’accord, d’accord, du calme... Prends ce qui te plaît, ne me fais pas de mal...",
+                "Ok, ok, du calme... Prends ce que tu veux, ne me fais pas de mal...",
                 "Salaud... Très bien. Vas-y. Ne reviens pas après.",
-                "Rhaah... Putain... Prends ce que tu veux et tire-toi !",
+                "Rhaah... Connard... Prends ce que tu veux et tire-toi !",
                 "Pitié, ne me fais pas de mal ! Prends quelque chose et... Pars je t’en supplie...",
-                "...D’accord. Prends quelque chose et laisse-moi. Pas besoin de s’énerver."
+                "...D’accord. Prends un truc et laisse-moi tranquille. Pas besoin de s’énerver."
             ],
             "traderlightbreak": [
-                "Mec, c’est quoi ce bordel ? Pourquoi tu fais ça ? Casse-toi.",
+                "Mec, mais tu fous quoi ? Pourquoi tu fais ça ? Casse-toi.",
                 "... Tu croyais vraiment que je ne le verrais pas ? Espèce d’enfoiré. Dégage !",
-                "Hé ! C’est quoi ce bordel ! J’avais besoin de ça ! Ouste !",
-                "Ahh ! Sale voleur ! Fiche le camp !",
-                "Mec. Bon... Bon alors. Bon... Je... Euh... Pars, s’il te plaît."
+                "Hé ! Mais bordel ! J’avais besoin de ça ! Ouste !",
+                "Ahh ! Sale VOLEUR! Fiche le camp !",
+                "Mec. Bon... Bon ok. Ok... Je... Euh... Pars, s’il te plaît."
             ],
             "traderwakegreet": [
                 "Bonjour.",
                 "Salut ! T’es enfin réveillé.",
                 "Salut, la marmotte.",
                 "Tu t’es bien reposé ?",
-                "J’espère que tu as bien dormi.",
+                "J’espère que t’as bien dormi.",
                 "Debout debout !"
             ],
             "traderseegun": [
@@ -3631,10 +3631,10 @@
                 "Ohh, ça n’a pas l’air d’aller bien... Écoute, tu peux prendre un pansement gratuitement si tu en trouves un."
             ],
 			"tradermove": [
-                "Oh, pardon. Et hop !"
+                "Oh, pardon. Voilà."
             ],
             "tradermovefail": [
-                "Hein ? Pourquoi ? Qu’est-ce que tu essayes de faire..? Je te fais pas confiance."
+                "Hein ? Pourquoi ? Qu’est-ce que t’essayes de faire..? Je ne te fais pas confiance."
 			],
             "swingresponse": [
                 "JE SUIS DÉSOLÉ !",
@@ -3705,7 +3705,7 @@
             "tradermeetnormal": [
                 "Salutations.",
                 "Bonjour.",
-                "C’est un plaisir de te rencontrer.",
+                "C’est un plaisir de vous rencontrer.",
                 "Ah ! Bien le bonjour !",
                 "Bienvenue, cher visiteur.",
                 "Bonjour à vous.",
@@ -3714,8 +3714,8 @@
                 "J’espère que vous allez bien."
             ],
             "tradermeetgood": [
-                "Je suis honoré de voir un autre survivant.",
-                "Oh ! Bonjour ! Comment allez-vous mon ami ?",
+                "C’est un honeur de voir un autre survivant.",
+                "Oh ! Bonjour ! Comment allez-vous cher ami ?",
                 "Salutations, très cher. Comment allez-vous ?",
                 "Ah ! Bonjour. Vous avez l’air très en forme !",
                 "Ah, ça fait du bien de trouver quelqu’un comme vous !"
@@ -3863,10 +3863,10 @@
                 "Pourquoi tu détruis ma capsule !? Dégage ! PARS !"
             ],
 			"tradermove": [
-                "D’accord."
+                "Ok."
             ],
 			"tradermovefail": [
-                "Pourquoi me déplacerais-je pour quelqu’un comme toi ?"
+                "Pourquoi voudrais-je faire place pour quelqu’un comme vous ?"
             ]
         },
         {
@@ -4030,10 +4030,10 @@
                 "A-mi vo-leur ! Pas a-mi..."
             ],
 			"tradermove": [
-                "Du-ne... Bou-ger..."
+                "Du-ne... Bouge..."
             ],
             "tradermovefail": [
-                "Du-ne aime cet en-droit..."
+                "Du-ne aime coin..."
 			]
         }
     ],
@@ -4045,7 +4045,7 @@
 				"Item3": "experiment"
             },
             {
-                "Item1": "J’ai questionné les autres au sujet de cette faculté à voir notre état physique dans nos esprits. Il s’avère que c’est quelque chose dont quasiment tout le monde ici est doté. Très intéressant, d’autant que nous n’en étions pas capable avant d’atterrir là. Quelqu’un nous aurait-il implanté quelque chose ? Il n’y a aucun accessoire visible sur nous. À noter également, j’ai aussi trouvé qu’une poignée de personnes ici ne partage pas cette faculté, semblant manquer ce qui faut pour le faire. Étrange.",
+                "Item1": "J’ai questionné les autres au sujet de cette faculté à voir notre état physique dans nos esprits. Il s’avère que c’est quelque chose dont quasiment tout le monde ici est doté. Très intéressant, d’autant que nous n’en étions pas capable avant d’atterrir là. Quelqu’un nous aurait-il implanté quelque chose ? Il n’y a aucun accessoire visible sur nous. J’ai aussi remarqué qu’une poignée de personnes ici ne partage pas cette faculté, semblant manquer ce qui faut pour le faire. Étrange.",
                 "Item2": "Sprites/noteDrawings/puppet",
 				"Item3": "milky"
             },
@@ -4070,7 +4070,7 @@
 				"Item3": "experiment"
             },
             {
-                "Item1": "j’ai entendu nos geôliers nous appeler des amalgames mutés d’ « humain, de renard et de rat », quoi que ça veuille dire. qu’est-ce qu’on continue à nous cacher ? en termes d’informations ? rien que d’y penser me fait peur. je n’avais jamais imaginé me retrouver ailleurs que là où nous avons grandi. et maintenant je me retrouve ici. je n’y comprends vraiment rien.\n(La page comporte ce qui semble être un auto-portait.)",
+                "Item1": "j’ai entendu nos maîtres nous appeler des amalgames mutés d’ « humain, de renard et de rat », quoi que ça veuille dire. qu’est-ce qu’on continue à nous cacher ? en termes d’informations ? rien que d’y penser me fait peur. je n’avais jamais imaginé me retrouver ailleurs que là où nous avons grandi. et maintenant je me retrouve ici. je n’y comprends vraiment rien.\n(La page comporte ce qui semble être un auto-portait.)",
                 "Item2": "Sprites/noteDrawings/experiment",
 				"Item3": "experiment"
             },
@@ -4080,12 +4080,12 @@
                 "Item3": "milky"
             },
 			{
-                "Item1": "the captors will get what they deserve.",
+                "Item1": "Nos maîtres auront ce qu’ils méritent.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "planète est bon .  mange plein de bonne chair .  dune content\n(Vous reconnaissez ce qui semble être un autoportrait peu abouti.)",
+                "Item1": "planet est bon .  manj plein de bon viand .  dune konten\n(Vous reconnaissez ce qui semble être un autoportrait peu abouti.)",
                 "Item2": "Sprites/noteDrawings/dune",
 				"Item3": "dune"
             },
@@ -4095,12 +4095,12 @@
                 "Item3": "milky"
             },
 			{
-                "Item1": "I was performing a self check-up following a painful incident when I noticed a dark, nodular bump on my skin. It appeared irregular in shape and was oddly multicoloured and variegated. I estimated its diameter to be approximately eight millimetres. Upon further inspection, I found several more in various locations on my body. I corresponded with a younger friend and they seemed to have none, but my older friend had many more. Should I keep track of the evolution of this potential malignancy?",
+                "Item1": "J’ai réalisé un autodiagnostic suite à un douloureux incident lorsque j’ai remarqué une bosse noire, toute rugeuse sur ma peau. Elle était de forme irrégulière et bizarrement colorée. J’ai estimé que son diamètre était d’environ huit millimètres. Après une inspection plus approfondie, j’en ai remarqué plusieurs à différentes parties de mon corps. J’ai échangé à ce sujet avec un ami plus jeune et il avait l’air de n’en avoir aucune. Mais mon ami plus agé en avait lui beaucoup plus. Devrais-je continuer de surveiller l’évolution de cette potentielle tumeur ?",
                 "Item2": "",
                 "Item3": "milky"
 			},
 			{
-                "Item1": "i didnt want to do it. they had a chest drain. what could i do? drown in my own blood? all i had was a stick of dynamite... if only i could be home, even just listening to the training radio, i would give anything. its not my fault. its not my fault.",
+                "Item1": "je voulais pas le faire. il avait un drain thoracique. qu’est ce que j'étais sensé faire ? me noyer dans mon propre sang ? tout ce que j’avais c’était un bâton de dynamite... si seulement j’étais à la maison, même juste en train d’écouter la radio d’entraînement, je donnerais tout pour ça. c’est pas ma faute. c’est pas ma faute.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4110,42 +4110,42 @@
                 "Item3": "experiment"
             },
 			{
-                "Item1": "dune love tasting friend .  all friend taste different .  dark fur friend is stiff .  light fur friend is chewy .  what dune me taste like ?",
+                "Item1": "dune aime kroker ami .  ami tous kroke diferen .  ami poil noir est krok dur .  ami poil blan est krok mou .  dune moi krok comen ?",
                 "Item2": "",
                 "Item3": "dune"
             },
 			{
-                "Item1": "hugging others makes me happier... but some of survivors refuse hugs, i think they can be appeased somehow. also sleeping next to them is much better than on the cold floor alone.",
+                "Item1": "faire des câlins aux autres me fait un bien fou... mais certains survivants ne veulent pas de câlins, je pense qu’ils peuvent être appaisés. aussi, dormir à leurs côtés est tellement mieux que tout seul sur le sol froid.",
                 "Item2": "",
                 "Item3": "experiment"
             },
 			{
-                "Item1": "To anyone who finds this, they can and will control you, even in this hell. With no previous alert I started to hear a loud alarm inside me, I could see a message saying \"DEPTH UNSATISFACTORY\" with red flashing lights materializing in the corner of my vision.\n\nI started running, panicked, without knowing why they would do this. Only after I went into another region of this cave network it stopped. They know how much time you are spending here, they know that you'll be frightened, and they want you to die. This is all a mass genocide.",
+                "Item1": "À quiconque trouve ceci, sachez qu’ils peuvent vous contrôler, même dans cet enfer. Tout d’un coup j’ai entendu une grosse alarme dans ma tête, j’ai pu lire un message disant « PROFONDEUR INSATISFAISANTE » avec des lumières rouges clignotantes se matérialisant dans le coin de ma vision.\n\nJ’ai couru sous la panique, sans même savoir pourquoi ils nous feraient ça. C’est seulement après avoir rejoint une autre zone de ces cavernes que ça s’est arrété. Ils savent combien de temps vous passez ici, ils savent que vous aurez peur, et ils veulent votre mort. C’est un génocide de masse.",
                 "Item2": "",
                 "Item3": "milky"
             },
 			{
-                "Item1": "i found a weapon. a firearm. gosh... im not used to operating this thing... i shouldve been more careful during the training sessions... i have zero idea of how ive even been sent here, being this unprepared, instead of getting culled. i almost shot someone by accident. i shouldve turned on the gun safety... who am i to know. the others tend to really panic when they see you holding a weapon in hand. so maybe it would be best to put it inside of something, so that they dont see it. they think youd shoot them, they dont know your intentions. well, id think the same if someone were to point a gun at me.",
+                "Item1": "j’ai trouvé une arme. un flingue. bon sang... j’ai pas l’habitude d’utiliser ces trucs... j’aurais du être plus attentif durant les sessions d’entraînement... j’ai aucune idée de pourquoi on m’a largué ici, étant si mal préparé, au lieu d’être réformé. j’ai failli tuer quelqu’un par accident avec ça. j’aurais dû mettre la sécurité... j’y connais rien, moi. les autres ont tendance à flipper quand ils te voient tenir un flingue en main. donc ce serait peut-être mieux de le garder caché dans un sac ou quoi, pour pas qu’ils le voient. ils te pensent capable de leur tirer dessus, ils ne connaissent pas tes intentions. en vrai, je penserais pareil si quelqu’un venait à me pointer une arme dessus.",
                 "Item2": "",
                 "Item3": "experiment"
             },
 			{
-                "Item1": "im so mad at myself for acting like a dumbass with the others up there... now all of the survivors i find chase me away from their pods... man, if you knew how hard they were swearing... they tried to scratch me... and im just saying to myself: \"okay, im sorry. for fucks sake, do you realize that currently every life matters? theres no room for hurting and killing each other.\". i wish i was a better person... its my own fault.",
+                "Item1": "je me déteste tellement pour avoir agi comme un con avec les autres là-haut... maintenant, tous ceux que je rencontre me chassent de leur capsule... bordel, si tu savais ce qu’ils balancent comme insultes... ils ont tenté me griffer... et je me dis à là, de-suite: « ok, je m’excuse. pour l’amour de merde, vous réalisez quand même que maintenant chaque vie compte? on peut pas se permettre de s’entretuer. ». j’aurais tellement dû être une meilleure personne... tout est ma faute.",
                 "Item2": "",
                 "Item3": "experiment"
             },
 			{
-                "Item1": "dont always trust the barrels of liquid lying around. got my hands on a big minibarrel of what i thought was lemondade, but one bitter sip was enough to tell me that it wasnt. i tried to wash it down with another barrel of water, but the water made me very sick and my hair started falling out",
+                "Item1": "méfiez-vous de tous ces barils de liquides qui traînent un peu partout. j’ai eu la patte sur un gros fût de ce que je pensais être de la limonade, une simple gorgée m’a suffi pour comprendre que ça n’en était pas. c’était ignoble! j’ai essayé de faire passer le goût avec l’eau d’un autre fût, mais elle m’a rendu malade et mes poils ont commencé à tomber",
                 "Item2": "",
                 "Item3": "experiment"
             },
 			{
-                "Item1": "today i found a few weird metal cans that had the label ripped off. i couldnt tell what it was and the liquid was too thick to pour out, but it is surprisingly filling, i feel like i just had a nice steak... i feel so sleepy. im about to drink the next can, i love these cans!\n(The bottom of the paper looks like something with black chunks in it was forcibly ejected onto it.)",
+                "Item1": "aujourd’hui j’ai trouvé d’étranges cannettes en métal qui n’avaient pas d’étiquette. je savais pas trop ce que c’était et le liquide était trop épais pour être versé, mais c’était surprenamment nourissant, j’ai l’impression d’avoir mangé un bon steak... je suis tellement fatigué. je vais boire la suivante, j’adore ces cannettes!\n(Le bas de la note a l’air d’avoir été souillé par une sorte de mixture contenant des morceaux noirs.)",
                 "Item2": "",
                 "Item3": "experiment"
             },
 			{
-                "Item1": "this might be a strange thing to say but I've made my peace with this situation. ive been trying to take care of myself as much as i can and trying to comfort all the others ive met down here. it makes me feel... content? even though I've gotten hurt a lot ive been able to handle it without feeling down.\ni'll try to get as far as i can, and even though i probably wont make it, i know i did my best and helped as many others as i could. that's all any of us can do.\nif you're reading this, don't give up, ok?",
+                "Item1": "c’est peut-être bizarre dit comme ça, mais j’ai décidé que cette situation me convenait. j’ai essayé de prendre soin de moi au mieux possible et de consoler les autres que j’ai rencontrés ici. J’éprouve... une forme de satisfaction? même si je me suis souvent blessé, j’ai été capable de m’en sortir sans trop me laisser abattre.\nje vais essayer d’aller le plus loin possible, et quand bien même je ne vais probablement pas y arriver, je sais que j’aurais fait de mon mieux et que j’aurais aidé le plus de gens  possible. c’est tout ce que nous pouvons faire.\nsi tu lis ceci, n’abandonne pas, ok?",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4269,7 +4269,7 @@
 				"Item3": "milky"
             },
             {
-                "Item1": "(C’est un dessin enfantin de ce qui ressemble à l’un de vos geôliers, vêtu d’une blouse blanche et un taser à la main. Son visage est griffé d’un grand X. Son arme vous rappelle d’horribles souvenirs.)",
+                "Item1": "(C’est un dessin enfantin de ce qui ressemble à l’un de vos maîtres, vêtu d’une blouse blanche et un taser à la main. Son visage est griffé d’un grand X. Son arme vous rappelle d’horribles souvenirs.)",
                 "Item2": "Sprites/noteDrawings/scientist",
 				"Item3": ""
             },
@@ -4279,7 +4279,7 @@
 				"Item3": "experiment"
             },
             {
-                "Item1": "en écoutant un peu nos geôliers, apparemment la cargaison que nous récupérons est une sorte de « source d’énergie avancée ». quelque chose comme le stockage d’une grande quantité d’énergie, et la possibilité de la distribuer « sans fil ». je ne suis pas sûr de ce que cela veut dire, mais peut être que c’est bon à savoir. bon courage.",
+                "Item1": "en écoutant un peu nos maîtres, apparemment la cargaison que nous récupérons est une sorte de « source d’énergie avancée ». quelque chose comme le stockage d’une grande quantité d’énergie, et la possibilité de la distribuer « sans fil ». je ne suis pas sûr de ce que cela veut dire, mais peut être que c’est bon à savoir. bon courage.",
                 "Item2": "",
 				"Item3": "experiment"
             },
@@ -4294,7 +4294,7 @@
                 "Item3": "milky"
             },
 			{
-                "Item1": "glowing woter taste bed",
+                "Item1": "eau briant bwar pa bon",
                 "Item2": "",
                 "Item3": "dune"
             },
@@ -4336,7 +4336,7 @@
                 "Item3": "milky"
             },
 			{
-                "Item1": "see evil creature... orange evil creature... creature want eat dune!   but dune fight back.   dune kill and eat evil creature!   creature very tasty!",
+                "Item1": "voi mechan monstr... mechan monstr orang... monstr ve manje dune!   mé dune krok monstr.   dune tu é manj mechan monstr!   monstr krok miam!",
                 "Item2": "Sprites/noteDrawings/wallbiter",
                 "Item3": "dune"
             },
@@ -4363,7 +4363,7 @@
         ],
         [
             {
-                "Item1": "Il semble y avoir une grande quantité de déchets radioactifs dans cette zone. Bien que cela rende la navigation difficile, il faut que nous gardions en tête que nous pouvons encaisser de faibles doses de radiations ionisantes sans trop de répercussions, tant que l’exposition n’est pas prolongée. J’ai entendu dire que nous étions déjà en criblés de cancers.",
+                "Item1": "Il semble y avoir une grande quantité de déchets radioactifs dans cette zone. Bien que cela rende la navigation difficile, il faut que nous gardions en tête que nous pouvons encaisser de faibles doses de radiations ionisantes sans trop de répercussions, tant que l’exposition n’est pas prolongée. J’ai entendu que nous sommes déjà en proie au cancer de toutes façons.",
                 "Item2": "",
 				"Item3": "milky"
             },
@@ -4400,7 +4400,7 @@
         ],
         [
             {
-                "Item1": "dune voir gros monstre. envie de tuer      dune chasse et tue et mange . bon manger . grand chasseur de bête !",
+                "Item1": "dune voir gro monstr. veu tué      dune chas et tu et manj . bon manjé . gran chaseur de bet !",
                 "Item2": "",
 				"Item3": "dune"
             },
